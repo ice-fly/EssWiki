@@ -85,4 +85,4 @@ The sign will allow players with the `signs.use.buy` permission to purchase 1 di
 #### Shops
 To prevent players exploiting the the economy by purchasing from the server using a buy sign and `/sell`, only create Buy signs at or above the rates found in `worth.yml`.
 A good server shop typically offers bulk Sell signs at better rates than the `worth.yml` to encourage players to use the shop over `/sell`.
-Alternatively, if players aren't given the `essentials.sell` permission their only option is to trade between players or go to the shop.
+Alternatively, if players aren't given the `essentials.sell` permission, their only option is to trade between players or go to the shop.
