@@ -1,5 +1,5 @@
 # EssentialsX Economy
-The built in economy API will redirect to any other detected economy system such as vault. This means you can use EssEco api as a economy api instead of vault if your plugin is dependent on Essentials.
+The built in economy API will redirect to any other detected economy system such as Vault. This means you can use EssentialsX's economy API as a economy api instead of Vault if your plugin is dependent on Essentials.
 
 ## Commands
 There are a number of commands for use in-game, including but not limited to:
@@ -75,9 +75,9 @@ EssentialsX adds currency format to improve the localization. You may uncomment 
 ```
 
 #### Permissions
-[Permissions for commands can be found here](https://essinfo.xeya.me/permissions.html) (Community maintained list)
+Players need permissions to use economy commands. For example, you can grant them the `essentials.pay` permission to allow them to use `/pay`.
 
-Important permissions include `essentials.eco` and  `essentials.pay`.
+Permissions for other economy commands can be found on [the EssentialsX permissions list](https://essinfo.xeya.me/permissions.html) (community maintained list).
 
 ## Signs & Shops
 Signs may be used to create shops where players can buy and sell items/blocks to and from the server in exchange for money. 
